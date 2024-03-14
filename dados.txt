@@ -1,11 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Yasmin      
+-Profissão: FullStack developer
+-Cidade: Rio de Janeiro
+-O que faz nas horas vaga: leio e assisto series
+-Feedback sobre o curso Qualidade de Software: gostando bastante das aulas praticas e ansiosa pela parte de testes automatizados
+-Feedback sobre a plataforma de estudo da EBAC: muito boa, os feedbacks dos professores sao bem rapidos
+
 
 Obrigado!!!
 
